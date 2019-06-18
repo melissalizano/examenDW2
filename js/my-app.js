@@ -22,9 +22,9 @@ var myApp = new Framework7({
     	name: 'artist',
   		},
 		{
-		path: '/card/',
-    	url: 'card.html',
-    	name: 'card',
+		path: '/playlist/',
+    	url: 'playlist.html',
+    	name: 'playlist',
   		},
 		{
 		path: '/menu/',
@@ -37,9 +37,9 @@ var myApp = new Framework7({
     	name: 'info',
   		},
 		{
-		path: '/tabs/',
-    	url: 'tabs.html',
-    	name: 'tabs',
+		path: '/perfil/',
+    	url: 'perfil.html',
+    	name: 'perfil',
   		},
 		{
 		path: '/form/',

@@ -1,6 +1,4 @@
-h1,h2,h3,h4,h5,h6{
-	margin: 0;
-}
+
 .list h5{
 	margin: 0;
 }
@@ -127,4 +125,37 @@ h1,h2,h3,h4,h5,h6{
 	width: 100px;
 	height: auto;
 	border-radius: 100%;
+}
+
+.playlist-img{
+	width: 200px;
+	height: auto;
+	border-radius: 20px;
+}
+.bg-playlist {
+	background-color:#EBAED0;
+	padding: 50px;
+}
+.pli{
+	color: dimgray;
+}
+
+.pli h4{
+	font-size: 8px;
+}
+.pli5{
+	font-size: 8px;
+}
+
+.dona{
+	font-size: 14px;
+	font-weight: bold;
+}
+.bio{
+	font-size: 10px;
+	font-weight: 200;
+}
+
+.bm{
+	color: blue;
 }
